@@ -1,0 +1,1 @@
+Flatten<FlatMap<Map<std::slice::Iter<'_, &str>, {closure@exercises/iterators/iterators2.rs:36:14: 36:17}>, Chars<'_>, {closure@exercises/iterators/iterators2.rs:37:19: 37:22}>>
